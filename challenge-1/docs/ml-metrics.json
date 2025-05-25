@@ -1,0 +1,13 @@
+{
+    "_comment": "This JSON file containing the ml-metrics",
+    "Name": "Annam.ai",
+    "Kaggle Username": "annam.ai",
+    "Team Name": "The Trio",
+    "f1 scores": {
+    "_comment": "Here are the class wise f1 scores",
+    "alluvial soil": 1,
+    "red soil": 1,
+    "black soil": 1,
+    "clay soil": 1
+  }
+}
